@@ -2,6 +2,8 @@
 ## Steps to run the training
 ### Create a virtual environment
 conda create -n spacy python==3.8.10
+
+
 conda activate spacy
 
 ### Install dependencies using requirements.txt
